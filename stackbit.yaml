@@ -11,7 +11,7 @@ pageLayoutKey: layout
 metadata:
   title: We are the makers of dreams!
   description: a multi-page theme with scroll-animated home sections
-  author: Pixelarity
+  author: Ya boy's out here
   authorURL: 'https://pixelarity.com'
   palettes:
     blue:
@@ -28,7 +28,7 @@ metadata:
         large: images/demo-purple-1024x768.png
 stackbit_banner:
   show_banner: true
-  name: Hyperspace
+  name: In there like swimwear
   create_url: 'https://app.stackbit.com/create?theme=hyperspace'
   github_url: 'https://github.com/stackbithq/stackbit-theme-hyperspace'
 models:
