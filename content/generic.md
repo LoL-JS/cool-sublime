@@ -1,5 +1,5 @@
 ---
-title: A Generic Page
+title: Make a donation to save the children now!
 content_img_path: images/pic04.jpg
 layout: page
 menu:
