@@ -8,6 +8,19 @@ menu:
     name: Generic
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+When I die, put my money in the grave
+I really gotta put a couple niggas in they place
+Really just lapped every nigga in the race
+I really might tat "Realest Nigga" on my face
+Lil CC let it slap with the bass
+I used to save hoes with a mask and a cape
+Now I'm like, "Nah, love, I'm good, go away"
+Ain't about to die with no money, I done gave it
+I was on top when that shit meant a lot
+Still on top like I'm scared of the drop
+Still on top and these niggas wanna swap
+Niggas wanna swap like it's Slauson or Watts
+I don't wanna change 'cause I'm good where I'm at
+Mob ties, so I'm always good where I'm at
+Word to Junior, Jazzy, Baby J
+Tell 'em when I die, put my money in the grave
