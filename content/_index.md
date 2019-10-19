@@ -15,10 +15,10 @@ sidebar:
       url: '#three'
       is_primary: false
 sections:
-  - title: We are the dream makers!
+  - title: CBD FOR YOU! MONEY FOR ME!!!!
     subtitle: |-
       Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
-      col accumsan est arcu donec sed Eleifend Integer.
+      
     section_id: intro
     background_style: style1
     actions:
